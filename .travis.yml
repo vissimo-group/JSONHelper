@@ -1,6 +1,0 @@
-language: objective-c
-osx_image: xcode8.3
-install:
-  - ./scripts/install-travis.sh
-script:
-  - ./scripts/test.sh
